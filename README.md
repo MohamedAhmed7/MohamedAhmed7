@@ -1,26 +1,36 @@
 # Hi there 👋
 
-I'm **Mohamed Ahmed**, a passionate developer and open-source enthusiast.
+I'm **Mohamed Ahmed Abbas**, a passionate Software Engineer and open-source enthusiast.
 
 ## 🚀 About Me
 - 💻 I love coding and building innovative projects.
-- 🌱 I’m currently learning [technology/tool you're learning].
+<!--- 🌱 I’m currently An [Aws associated developer].AV -->
 - 🎯 My goal is to contribute to impactful open-source projects.
 
 ## 🛠️ Skills
-- **Languages**: [list your programming languages]
-- **Frameworks**: [list your frameworks]
-- **Tools**: [list development tools]
+- **Languages**: [Python, Typescript, C++]
+- **Tools & Frameworks**: [Flask python
+,Django python
+,Django Rest Framework (DRF)
+,Docker
+,web servers (NGINX)
+,Git (GitHub)
+,Amazon Web Services (AWS)
+,Angular
+,Slack
+,NodeJs]
 
 ## 🌟 Featured Projects
-- [Project 1](https://github.com/MohamedAhmed7/project1) - Brief description.
-- [Project 2](https://github.com/MohamedAhmed7/project2) - Brief description.
+- [Selfed](https://github.com/MohamedAhmed7/selfed) - Selfed, self-eatingdisorders
+Selfed is a platform for people who are suffering from eating disorders can get support
+and share their experiences with a group of passionate professionals and volunteers
+who turned their struggles into a message of hope to pay it forward “You are not alone.
+There is always hope towards understanding, praising and valuing your “self”.
+Appreciation goes to each volunteer who wholeheartedly contributed to the content
+and development of SELF.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamedabass)
 - 📧 Email: your-email@example.com
 
 ---
-
-Feel free to customize it further to reflect your personality and work! Let me know if you'd like help with any specific part.
