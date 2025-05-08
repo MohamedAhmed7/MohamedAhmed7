@@ -31,6 +31,6 @@ and development of SELF.
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mohamedabass)
-- 📧 Email: your-email@example.com
+- 📧 Email: moh.ahmed.abass@gmail.com
 
 ---
